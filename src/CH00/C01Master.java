@@ -3,8 +3,8 @@ package CH00;
 public class C01Master {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// V0.0 Master
+		System.out.print("V0.0 Master(조장 : 홍길동)");
+		
 	}
-
 }
